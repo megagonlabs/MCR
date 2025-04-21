@@ -1,0 +1,35 @@
+We used the following components to build the MCRank benchmark.
+
+1. T-REx:  
+   - Source: https://hadyelsahar.github.io/t-rex/downloads/  
+   - License: CC BY-SA 4.0
+     
+2. CACD: 
+   - Source: https://bcsiriuschen.github.io/CARC/  
+   - License: Public Domain
+
+3. VEC Dataset:  
+   - Source: https://github.com/TobiasLee/VEC  
+   - License: Public Domain
+  
+4. Big-Bench Dataset:  
+   - Source: https://github.com/google/BIG-bench  
+   - License: Apache-2.0
+
+5. Dice Job Description Dataset: 
+   - Source: https://www.kaggle.com/datasets/PromptCloudHQ/us-technology-jobs-on-dicecom  
+   - License: CC BY-SA 4.0
+
+6. SQUAD Dataset:  
+   - Source: https://rajpurkar.github.io/SQuAD-explorer/  
+   - License: CC BY-SA 4.0
+
+7. Amazon Reviews Dataset:  
+   - Source-1: https://github.com/nijianmo/recsys_justification
+   - License: Public Domain
+   - Source-2: https://github.com/google-research-datasets/MAVE?tab=readme-ov-file  
+   - License: Attribution-NonCommercial 4.0 International
+     
+8. Drop Dataset: 
+   - Source: https://huggingface.co/datasets/ucinlp/drop  
+   - License: CC BY-SA 4.0
